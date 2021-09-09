@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1631123442 source:c:\users\marce\documents\c\projetofinal\funcoescanhao.c
+	"funcoesCanhao.h"
+	<stdio.h>
+
+1630611380 c:\users\marce\documents\c\projetofinal\funcoescanhao.h
+
+1631122592 source:c:\users\marce\documents\c\projetofinal\funcoesdisco.c
+	"funcoesDisco.h"
+	"funcoesProjetil.h"
+
+1631040674 c:\users\marce\documents\c\projetofinal\funcoesdisco.h
+
+1630611490 c:\users\marce\documents\c\projetofinal\funcoesprojetil.h
+
+1631123346 source:c:\users\marce\documents\c\projetofinal\funcoesprojetil.c
+	<stdio.h>
+	"funcoesProjetil.h"
+	"funcoesCanhao.h"
+	"main.h"
+	<windows.h>
+	"funcoesEssenciais.h"
+
+1631036004 c:\users\marce\documents\c\projetofinal\main.h
+
+1631121498 c:\users\marce\documents\c\projetofinal\funcoesessenciais.h
+
+1631139037 source:c:\users\marce\documents\c\projetofinal\jogador.c
+	<stdio.h>
+	<stdlib.h>
+	"jogador.h"
+	<string.h>
+	<conio.h>
+	"main.h"
+	"funcoesEssenciais.h"
+	"windows.h"
+
+1631139193 c:\users\marce\documents\c\projetofinal\jogador.h
+
+1631138366 source:c:\users\marce\documents\c\projetofinal\funcoesessenciais.c
+	<stdio.h>
+	"funcoesEssenciais.h"
+	<windows.h>
+	"funcoesCanhao.h"
+	"funcoesProjetil.h"
+	"funcoesDisco.h"
+	"jogador.h"
+	<time.h>
+	<stdlib.h>
+
+1631138366 source:c:\users\marce\documents\c\projetofinal\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+	<stdlib.h>
+	"funcoesEssenciais.h"
+	"funcoesCanhao.h"
+	"funcoesProjetil.h"
+	"funcoesDisco.h"
+	"jogador.h"
+	"main.h"
+
